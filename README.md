@@ -12,3 +12,4 @@
 
 #### Note: this data set is frictional accoding to kaggle where it was gotten from.
 ### I used both python and Power BI for my Exploratory Data Analysis. which includes gaining insight from different graph plotted.
+#### Here is a link to my Medium article <https://medium.com/@mariamfayena/student-performance-analysis-with-python-and-power-bi-59fc1cabcb8b>
