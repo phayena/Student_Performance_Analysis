@@ -11,4 +11,4 @@
 * writing scores: their score in writing
 
 #### Note: this data set is frictional accoding to kaggle where it was gotten from.
-
+### I used both python and Power BI for my Exploratory Data Analysis. which includes gaining insight from different graph plotted.
